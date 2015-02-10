@@ -1,7 +1,7 @@
 import processing.serial.*;
 import cc.arduino.*;
 JSONObject json;
-String myURL = "https://www.kimonolabs.com/api/deufu5vw?apikey=Q3A2TIrWCxcSBqHP4wJCKN2ZjPSdXAeS";
+String myURL = "https://www.kimonolabs.com/api/deufu5vw?apikey=**********"; //JSON Source: http://activefiremaps.fs.fed.us/current.php?op=table&sensor=modis
 
 Arduino arduino;
 
